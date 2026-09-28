@@ -1,0 +1,6 @@
+{
+  "name": "Vernissage Art Store & Exhibition",
+  "description": "An interactive fine art e-commerce store and contemporary exhibition featuring original oil paintings, gallery prints, sculptures, and atelier supplies.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
